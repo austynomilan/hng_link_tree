@@ -1,0 +1,9 @@
+.footer{
+    width: 80vw;
+}
+
+.footer ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}

@@ -1,13 +1,12 @@
 .linkers{
-    width: 80vw;
-    margin-left: -2.5rem;
+    width: 100%;
 }
 
 .linkers li{
-    background-color: rgb(203, 198, 198);
-    border-radius: 5px;
-    margin: 0.5rem 0 0.5rem 0; 
-    height: 2rem;
+    background-color: #EAECF0;
+    border-radius: 8px;
+    margin: 8px 0 8px 0; 
+    height: 76px;
     display: flex;
     align-items: center;
     justify-content: center;
