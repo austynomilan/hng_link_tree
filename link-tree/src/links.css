@@ -1,0 +1,32 @@
+.linkers{
+    width: 80vw;
+    margin-left: -2.5rem;
+}
+
+.linkers li{
+    background-color: rgb(203, 198, 198);
+    border-radius: 5px;
+    margin: 0.5rem 0 0.5rem 0; 
+    height: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: 0.4s ease;
+}
+
+.linkers li:hover{
+    background-color: rgb(152, 141, 141);
+}
+
+.linkers li:active{
+ transform: scale(0.98);
+}
+
+.linkers ul{
+    list-style: none;
+}
+
+.linkers a{
+    text-decoration:  none;
+    color: black;
+}
