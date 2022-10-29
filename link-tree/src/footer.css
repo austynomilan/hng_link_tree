@@ -8,3 +8,20 @@
     justify-content: space-between;
     list-style: none;
 }
+
+.footer ul li{
+    color: #667085;
+    font-size: 16px;
+    font-family: 'inter';
+}
+
+
+@media screen and (max-width: 768px){
+        .footer ul{
+            flex-direction: column;
+        }
+
+        .footer ul li{
+            margin-top: 1rem;
+        }
+    }
