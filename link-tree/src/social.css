@@ -7,3 +7,8 @@
     margin: 5px;
     font-size: 30px;
 }
+
+.socials ul li a{
+    text-decoration: none;
+    color: rgb(61, 57, 57);
+}

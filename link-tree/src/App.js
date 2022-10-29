@@ -6,15 +6,19 @@ import Footer from './component/footer';
 import './footer.css'
 import Socials from './component/socials';
 import './social.css'
+import { BrowserRouter as Router } from 'react-router-dom';
+import Route from 'react-router-dom/Route'
 
 function App(){
     return(
-        <div className='App'>
+        <Router>
+            <div className='App'>
             <Profile />
             <Linker  />
             <Socials />
             <Footer />
         </div>
+        </Router>
     )
 }
 
