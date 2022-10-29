@@ -9,6 +9,7 @@ class Socials extends Component {
             <div className="socials">
                 <ul>
                     <li>
+                        {/* slack username austyno */}
                         <a id='slack' href="https://hng9.slack.com/team/U04903CUJL9"><FontAwesomeIcon icon={faSlack} /></a>
                     </li>
                     <li>

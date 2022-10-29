@@ -15,6 +15,15 @@
     font-family: 'inter';
 }
 
+.zuri{
+    position: relative;
+}
+
+.dot{
+    position: absolute;
+    left: 5.7rem;
+    top: 55.5rem;
+}
 
 @media screen and (max-width: 768px){
         .footer ul{
@@ -23,5 +32,9 @@
 
         .footer ul li{
             margin-top: 1rem;
+        }
+        .dot{
+        
+            top: 56.5rem;
         }
     }
