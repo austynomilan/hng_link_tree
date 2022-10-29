@@ -6,12 +6,15 @@ import Footer from './component/footer';
 import './footer.css'
 import Socials from './component/socials';
 import './social.css'
+import Share from './component/share';
+import './share.css'
 
 
 
 function App(){
     return(
         <div className='App'>
+            <Share />
             <Profile />
             <Linker  />
             <Socials />

@@ -1,0 +1,9 @@
+.share{
+    position: absolute;
+    top: 4rem;
+    right: 12rem;
+}
+
+.more{
+    display: none;
+}
