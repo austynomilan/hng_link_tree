@@ -5,7 +5,7 @@ class Linker extends Component {
         return (
         <div className='linkers'>
             <ul>
-                <li><a href="https://twitter.com/austynomilan" id='twitter'>Twitter</a></li>
+                <li><a href="https://twitter.com/austynomilan" id='twitter'>Twitter Link</a></li>
                 <li><a href="https://training.zuri.team/">Zuri Team</a></li>
                 <li><a href=" http://books.zuri.team ">Zuri Books</a></li>
                 <li><a href="https://books.zuri.team/">Python Books</a></li>
