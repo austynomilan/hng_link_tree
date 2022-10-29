@@ -1,0 +1,9 @@
+.socials ul{
+   list-style: none;
+   display: flex;
+}
+
+.socials ul li{
+    margin: 5px;
+    font-size: 30px;
+}
