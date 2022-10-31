@@ -21,21 +21,21 @@
 
 .dot{
     position: absolute;
-    left: 5.7rem;
-    top: 55.5rem;
+    left: 0.9rem;
+    top: 57.3rem;
 }
 
 @media screen and (max-width: 768px){
         .footer ul{
             flex-direction: column;
-            margin-left: -20px;
+            margin-left: -40px;
         }
 
         .footer ul li{
             margin-top: 1rem;
         }
         .dot{
-        
-            top: 56.5rem;
+            left: 1.4rem;
+            top: 58.3rem;
         }
     }
