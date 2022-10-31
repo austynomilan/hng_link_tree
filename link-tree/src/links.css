@@ -2,7 +2,9 @@
     width: 100%;
 }
 
-.linkers li{
+.linkers a{
+    text-decoration:  none;
+    color: black;
     background-color: #EAECF0;
     border-radius: 8px;
     margin: 8px 0 8px 0; 
@@ -13,22 +15,15 @@
     transition: 0.4s ease;
 }
 
-.linkers li:hover{
+.linkers a:hover{
     background-color: rgb(152, 141, 141);
 }
 
-.linkers li:active{
+.linkers a:active{
  transform: scale(0.98);
 }
 
-.linkers ul{
-    list-style: none;
-}
 
-.linkers a{
-    text-decoration:  none;
-    color: black;
-}
 
 @media screen and (max-width: 768px){
     .linkers{
