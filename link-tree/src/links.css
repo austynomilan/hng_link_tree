@@ -32,7 +32,7 @@
 
 @media screen and (max-width: 768px){
     .linkers{
-        width: 90vw;
+        width: 95vw;
         justify-content: center;
         align-items: center;
         transform: translateX(-5%);

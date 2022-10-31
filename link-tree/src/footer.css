@@ -28,6 +28,7 @@
 @media screen and (max-width: 768px){
         .footer ul{
             flex-direction: column;
+            margin-left: -20px;
         }
 
         .footer ul li{
