@@ -6,8 +6,8 @@ class Footer extends Component {
         <div className='footer'>
             <ul>
                 <li className='Zuri'>
-                    <img src="/img/Vector.png" alt="Zuri logo"  />
-                    <img className='dot' src="/img/dot.png" alt="a dot"  />
+                    <img src="/img/logo.36d2d48a.svg" alt="Zuri logo"  />
+                    
                 </li>
                 <li>HNG internship 9 Frontend Task</li>
                 <li><img src="/img/I4G.png" alt="ingressive for good logo"  /></li>

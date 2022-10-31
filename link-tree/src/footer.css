@@ -21,7 +21,7 @@
 
 .dot{
     position: absolute;
-    left: 0.9rem;
+    left: 29px;
     top: 57.3rem;
 }
 
@@ -34,8 +34,9 @@
         .footer ul li{
             margin-top: 1rem;
         }
+        
         .dot{
-            left: 1.4rem;
+            left: 22.5px;
             top: 58.3rem;
         }
     }
