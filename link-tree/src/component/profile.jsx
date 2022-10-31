@@ -4,8 +4,8 @@ class Profile extends Component {
   render() { 
     return(
       <div className='profile'>
-        <img src="/img/profile_img.jpg" alt="profile_image" id='profile_img' />
-        <h3>Odoh Augustine</h3>
+        <img src="/img/profile__img.png" alt="profile_image" id='profile_img' />
+        <h3>Annette Black</h3>
       </div>
       
     )
