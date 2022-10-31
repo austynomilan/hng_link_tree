@@ -5,7 +5,8 @@ class Profile extends Component {
     return(
       <div className='profile'>
         <img src="/img/profile__img.png" alt="profile_image" id='profile_img' />
-        <h3>Annette Black</h3>
+        <h3 id='twitter'>Austynomilan</h3>
+        <p id='slack'>Austyno</p>
       </div>
       
     )

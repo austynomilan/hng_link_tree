@@ -19,3 +19,9 @@
 #profile_img:hover{
     box-shadow: 2px 3px 2px grey;
 }
+
+#slack{
+opacity: 0;
+margin: -15px 0 -12px 0;
+}
+
