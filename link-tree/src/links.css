@@ -29,3 +29,12 @@
     text-decoration:  none;
     color: black;
 }
+
+@media screen and (max-width: 768px){
+    .linkers{
+        width: 90vw;
+        justify-content: center;
+        align-items: center;
+        transform: translateX(-5%);
+    }
+}
