@@ -5,7 +5,7 @@ class Linker extends Component {
         return (
         <section className='linkers'>
 
-                    <a href="https://training.zuri.team/" id='btn_zuri'>Zuri Team</a>
+                    <a href="https://training.zuri.team/" id='btn_zuri' target='_blank' rel="noreferrer">Zuri Team</a>
                 
         
                     <a href="http://books.zuri.team" id='books' title='Handpicked books and customized guides to help you grow and advance your tech careers.' target='_blank' rel="noreferrer">Zuri Books</a>
