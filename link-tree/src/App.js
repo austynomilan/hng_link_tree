@@ -1,26 +1,21 @@
-import Profile from './component/profile';
-import './profile.css'
-import Linker from './component/links';
-import './links.css'
-import Footer from './component/footer';
-import './footer.css'
-import Socials from './component/socials';
-import './social.css'
-import Share from './component/share';
-import './share.css'
+import "./profile.css";
+import "./links.css";
+import "./social.css";
+import "./share.css";
+import Footer from "./component/footer";
+import "./footer.css";
+import Home from "./pages/Home";
 
 
 
-function App(){
-    return(
-        <div className='App'>
-            <Share />
-            <Profile />
-            <Linker  />
-            <Socials />
-            <Footer />
-        </div>
-    )
+function App() {
+    return (
+      <div className='App'>
+            <Home /> 
+          <Footer />
+     </div>
+    
+    );
 }
 
-export default App
+export default App;
